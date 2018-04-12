@@ -1,8 +1,11 @@
 {
-  "name": "react-native-camera",
+  "name": "@voobangitub/react-native-camera",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vooban/react-native-camera"
+  },
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "1.0.3",
-  "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/react-native-camera",
@@ -51,10 +54,6 @@
   "types": "types",
   "nativePackage": true,
   "pre-commit": "lint:staged",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/react-native-community/react-native-camera.git"
-  },
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "lint": "eslint src",
