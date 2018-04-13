@@ -5,7 +5,7 @@
     "url": "https://github.com/Vooban/react-native-camera"
   },
   "description": "A Camera component for React Native. Also reads barcodes.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/react-native-camera",
