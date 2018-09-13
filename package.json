@@ -1,8 +1,8 @@
 {
-  "name": "@voobangitub/react-native-camera",
+  "name": "react-native-camera",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vooban/react-native-camera"
+    "url": "https://github.com/skynt01/react-native-camera"
   },
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "1.0.6",
